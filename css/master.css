@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+#nav{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#nav img{
+  width: 150px;
+
+}
+
+#nav ul{
+  list-style-type: none;
+  width: 100%;
+  margin-top: 10px;
+  border: black 1px solid;
+}
+
+#nav ul li{
+  display: inline-block;
+  padding: 20px 10px;
+}
+
+#text1, #text2{
+  padding: 10px;
+}
+
+#section1 div h2{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#section1 div img{
+  width: 100%;
+}
+
+#image2, #text2{
+  display: none;
+}
